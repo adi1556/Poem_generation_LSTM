@@ -13,6 +13,6 @@ Apart from poetry generation, I also wanted to see if I could do some topic mode
 Finally I tried VADER Sentiment Analyzer to check the sentiment of the poems. 
 
 A line my generator generated:
-### I See the world when I see your eyes
+### I see the world when I see your eyes
 
 If that doesn't get you brownie points from your spouse, I'm not sure what else will. 
